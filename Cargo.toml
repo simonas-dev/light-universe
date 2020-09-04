@@ -6,3 +6,4 @@ edition = "2018"
 
 [dependencies]
 nannou = "0.14"
+nannou_audio = "0.14.0"
